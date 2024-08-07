@@ -1,0 +1,27 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-image:url(../../../Landing_Page_Onebitecode/images/backgroundLp.png);
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.container1 {
+    background-color: $background-color;
+    width: 450px;
+    height: auto;
+}
+
+.topLogo {
+    width: 185px;
+}
+
+.fotter {
+    margin-top: 30px;
+    margin-bottom: -30px;
+}
